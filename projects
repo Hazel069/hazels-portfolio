@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Projects - Hazel's Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>My Projects</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Logo Designs</h2>
+    <div class="gallery">
+      <img src="images/profile1.jpg" alt="Logo 1">
+      <img src="images/profile2.jpg" alt="Logo 2">
+    </div>
+    <h2>Business Profiles</h2>
+    <p>I also create professional business profiles for brands and startups. My work ensures you stand out to potential clients and investors!</p>
+  </section>
+</body>
+</html>

@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About - Hazel's Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>About Hazel’s Websites</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="projects.html">Projects</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section>
+    <p>
+      At Hazel’s Websites, I specialize in:
+    </p>
+    <ul>
+      <li>Affordable and modern <strong>website design</strong></li>
+      <li>Professional and custom <strong>logo creation</strong></li>
+      <li><strong>Business profile branding</strong> and identity services</li>
+    </ul>
+    <p>Every design is tailored to your unique needs and goals. Let's build your online presence with style and confidence!</p>
+  </section>
+</body>
+</html>

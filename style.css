@@ -1,0 +1,47 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #ffe6f0; /* soft pink background */
+  color: #003366; /* deep blue text */
+}
+
+header {
+  background: #ff99cc; /* pink header */
+  color: #003366;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+nav a {
+  color: #003366;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+section {
+  background: white;
+  margin: 2rem auto;
+  padding: 2rem;
+  max-width: 800px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+h2 {
+  color: #cc0066; /* a stronger pink for section titles */
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #ff99cc;
+  color: #003366;
+}
